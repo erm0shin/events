@@ -1,0 +1,19 @@
+@font-face {
+    font-family: SFProText-Regular;
+    src: url(https://boozingeorge.github.io/static/SFProText-Regular.ttf);
+}
+
+@font-face {
+    font-family: SFProDisplay-Regular;
+    src: url(https://boozingeorge.github.io/static/SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: SFProDisplay-Semibold;
+    src: url(https://boozingeorge.github.io/static/SF-Pro-Display-Semibold.otf);
+}
+
+@font-face {
+    font-family: SFProText-Medium;
+    src: url(https://boozingeorge.github.io/static/SFProText-Medium.ttf);
+}
